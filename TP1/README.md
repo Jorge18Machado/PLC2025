@@ -1,1 +1,4 @@
-Criação da pasta TP1
+TPC1 - Especificação de uma expressão regular
+
+Jorge Miguel Meireles Machado, a85797
+
